@@ -1,4 +1,4 @@
 # ` spaingitcoder `
-- <details><summary>spaingitcoder</summary>
+<details><summary>spaingitcoder</summary>
           spaingitcoder
 </details>
