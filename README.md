@@ -1,4 +1,4 @@
-_experimentation with fonts_
+_experimentation_
 # ` spaingitcoder `
 <details><summary>spaingitcoder</summary>
                
